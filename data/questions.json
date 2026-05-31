@@ -1,0 +1,1742 @@
+{
+  "count": 131,
+  "questions": [
+    {
+      "id": "教育类-1",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Some students take one year off between finishing school and going to university, in order to travel or to work. Do you think advantages outweigh disadvantages?",
+      "question_type": "advantages_disadvantages",
+      "keywords": [
+        "gap year",
+        "travel",
+        "work",
+        "advantages vs disadvantages"
+      ]
+    },
+    {
+      "id": "教育类-2",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Some people think that all university students should study whatever they like. Others believe that they should only be allowed to study subjects that will be useful in the future, such as those related to science and technology. Discuss both these views and give your own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "university students",
+        "subject choice",
+        "useful subjects",
+        "science and technology"
+      ]
+    },
+    {
+      "id": "教育类-3",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Some people believe that studying at university or college is the best route to a successful career, while others believe that it is better to get a job straight after school. Discuss both views and give your opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "university education",
+        "career success",
+        "job after school",
+        "further study vs work"
+      ]
+    },
+    {
+      "id": "教育类-4",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Some students choose to work or travel after leaving school and before going to university. Many people say that working experience is more useful in adult life than traveling. Do you agree or disagree with this statement?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "work experience",
+        "travel",
+        "gap year",
+        "adult life",
+        "usefulness"
+      ]
+    },
+    {
+      "id": "教育类-5",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Some people think that family is the most powerful influence on child's development. Other people, however, believe that other influences (such as television, friends and music etc.) influence more. Discuss both views and give your opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "family influence",
+        "child development",
+        "media influence",
+        "peer influence"
+      ]
+    },
+    {
+      "id": "教育类-6",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Once children start school, teachers have more influence than parents on their intellectual and social development. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "teachers influence",
+        "parents influence",
+        "intellectual development",
+        "social development"
+      ]
+    },
+    {
+      "id": "教育类-7",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Caring for children is probably the most important thing of the society. It is suggested that all mothers and fathers should be required to take the childcare training courses. To what extent do you agree or disagree with the statement?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "childcare",
+        "parenting training courses",
+        "mandatory training",
+        "social responsibility"
+      ]
+    },
+    {
+      "id": "教育类-8",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Some people say that the only reason for learning a foreign language is in order to travel to or work in a foreign country. Others say that these are not the only reasons why someone should learn a foreign language. Discuss both these views and give your own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "foreign language learning",
+        "reasons for learning",
+        "travel",
+        "work",
+        "cultural benefits"
+      ]
+    },
+    {
+      "id": "教育类-9",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Schools should emphasize academic subjects, which are more important for future jobs, rather than sports and music. Do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "academic subjects",
+        "sports",
+        "music",
+        "curriculum balance",
+        "future employment"
+      ]
+    },
+    {
+      "id": "教育类-10",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Some people think that secondary school students should study international news as one of their subjects; but others believe that it is a waste of their valuable study time. Discuss both views and give your opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "international news",
+        "secondary school curriculum",
+        "global awareness",
+        "study time"
+      ]
+    },
+    {
+      "id": "教育类-11",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Many students find it harder to study when they are at university or college than when they were at school. Why is this? What can be done to solve the problem?",
+      "question_type": "problem_solution",
+      "keywords": [
+        "university study difficulty",
+        "transition from school",
+        "causes",
+        "solutions"
+      ]
+    },
+    {
+      "id": "教育类-12",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Some people believe that online education will replace traditional classroom teaching. Do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "online education",
+        "traditional classroom",
+        "replacement",
+        "future of education"
+      ]
+    },
+    {
+      "id": "教育类-13",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Some people think playing computer games is bad for children on everything. Others think it has some positive effects on the way children develop. Discuss both these views and give your own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "computer games",
+        "children development",
+        "negative effects",
+        "positive effects"
+      ]
+    },
+    {
+      "id": "教育类-14",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Nowadays, children spend a lot of time watching TV and playing computer games. Some people believe this has negative effects on children's mental abilities. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "TV watching",
+        "computer games",
+        "children's mental abilities",
+        "negative effects"
+      ]
+    },
+    {
+      "id": "教育类-15",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Despite better access to education, many adults today are still cannot read or write. In what ways are they disadvantaged? What can governments do to help them?",
+      "question_type": "other",
+      "keywords": [
+        "adult illiteracy",
+        "disadvantages",
+        "government intervention",
+        "access to education"
+      ]
+    },
+    {
+      "id": "教育类-16",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Some people believe that university students should pay all the cost of studies because university education only benefits students themselves not the society as a whole. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "university funding",
+        "tuition fees",
+        "individual benefit",
+        "social benefit"
+      ]
+    },
+    {
+      "id": "教育类-17",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Some people say that all young people should be required to stay in full-time education until they are at least 18 years old. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "compulsory education",
+        "full-time education",
+        "school leaving age",
+        "young people"
+      ]
+    },
+    {
+      "id": "教育类-18",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Some college freshmen find that the courses they choose are not suitable for them. What are the causes of this? What can be done to solve the problem?",
+      "question_type": "other",
+      "keywords": [
+        "college freshmen",
+        "course suitability",
+        "causes",
+        "solutions"
+      ]
+    },
+    {
+      "id": "教育类-19",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "There are many different types of music in the world today. Why do we need music? Is the traditional music of a country more important than the international music that is heard everywhere nowadays?",
+      "question_type": "other",
+      "keywords": [
+        "music",
+        "traditional music",
+        "international music",
+        "cultural importance"
+      ]
+    },
+    {
+      "id": "教育类-20",
+      "theme_cn": "教育类",
+      "theme_en": "Education",
+      "question_text": "Some people think that older school children should learn a wide range of subjects and develop knowledge, while other people think that they should only learn a small number of subjects in detail. Discuss both view and give your own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "curriculum breadth",
+        "subject specialization",
+        "older school children",
+        "knowledge development"
+      ]
+    },
+    {
+      "id": "政府类-1",
+      "theme_cn": "政府类",
+      "theme_en": "Government and Society",
+      "question_text": "Some people say governments should put money in the arts, such as music, opera and paintings, but others believe they should spend more money on other areas. Discuss both sides and give your opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "government funding",
+        "arts funding",
+        "public spending",
+        "cultural investment"
+      ]
+    },
+    {
+      "id": "政府类-2",
+      "theme_cn": "政府类",
+      "theme_en": "Government and Society",
+      "question_text": "More and more people are migrating to cities in search of a better life, but city life can be extremely difficult. Explain some of the difficulties of living in a city. How can governments make urban life better for everyone?",
+      "question_type": "other",
+      "keywords": [
+        "urban migration",
+        "city life difficulties",
+        "government solutions",
+        "quality of life"
+      ]
+    },
+    {
+      "id": "政府类-3",
+      "theme_cn": "政府类",
+      "theme_en": "Government and Society",
+      "question_text": "Several languages are in danger of extinction because they are spoken by very small numbers of people. Some people say that governments should spend public money on saving these languages, while others believe that would be a waste of money. Discuss both these views and give your opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "endangered languages",
+        "language preservation",
+        "public spending",
+        "cultural diversity"
+      ]
+    },
+    {
+      "id": "政府类-4",
+      "theme_cn": "政府类",
+      "theme_en": "Government and Society",
+      "question_text": "Many people prefer to watch foreign films rather than locally produced films. Why could this be? Should governments give more financial support to local film industries?",
+      "question_type": "other",
+      "keywords": [
+        "foreign films",
+        "local film industry",
+        "government subsidies",
+        "cultural preferences"
+      ]
+    },
+    {
+      "id": "政府类-5",
+      "theme_cn": "政府类",
+      "theme_en": "Government and Society",
+      "question_text": "Some people think that governments should give financial support to creative artists such as painters and musicians. Others believe that creative artists should be funded by alternative sources. Discuss both views and give your own",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "creative artists",
+        "government funding",
+        "alternative funding",
+        "arts support"
+      ]
+    },
+    {
+      "id": "政府类-6",
+      "theme_cn": "政府类",
+      "theme_en": "Government and Society",
+      "question_text": "Foreign visitors should pay more than local visitors for cultural and historical attractions. To what extent do you agree or disagree with this opinion?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "foreign visitors",
+        "pricing policy",
+        "cultural attractions",
+        "tourism"
+      ]
+    },
+    {
+      "id": "政府类-7",
+      "theme_cn": "政府类",
+      "theme_en": "Government and Society",
+      "question_text": "Education and health care should be funded by the government and free for everyone. To what extent do you agree or disagree with this opinion?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "education funding",
+        "healthcare funding",
+        "free public services",
+        "government responsibility"
+      ]
+    },
+    {
+      "id": "政府类-8",
+      "theme_cn": "政府类",
+      "theme_en": "Government and Society",
+      "question_text": "Some people want the government to spend more money looking for life on other planets, while others think it is a waste of public money and there are many problems on the earth. Discuss both views and give your own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "space exploration",
+        "government spending",
+        "public priorities",
+        "earth problems"
+      ]
+    },
+    {
+      "id": "政府类-9",
+      "theme_cn": "政府类",
+      "theme_en": "Government and Society",
+      "question_text": "Some people think that good health is very important to every person, so medical services should not be run by profit-making companies. Do the disadvantages of private health care outweigh the advantages？",
+      "question_type": "advantages_disadvantages",
+      "keywords": [
+        "private healthcare",
+        "profit-making",
+        "medical services",
+        "advantages vs disadvantages"
+      ]
+    },
+    {
+      "id": "政府类-10",
+      "theme_cn": "政府类",
+      "theme_en": "Government and Society",
+      "question_text": "Some people think the government should ban dangerous sports, while some others think everyone should be free to choose whatever sporting activities he or she likes. Discuss both views and give your own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "dangerous sports",
+        "government ban",
+        "personal freedom",
+        "risk regulation"
+      ]
+    },
+    {
+      "id": "政府类-11",
+      "theme_cn": "政府类",
+      "theme_en": "Government and Society",
+      "question_text": "Some people think they have the right to use as much fresh water as they want, while others believe governments should tightly control the use of fresh water as it is limited resource. Discuss both views and give your opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "fresh water",
+        "water conservation",
+        "government control",
+        "individual rights"
+      ]
+    },
+    {
+      "id": "环境类-1",
+      "theme_cn": "环境类",
+      "theme_en": "Environment",
+      "question_text": "Nowadays we are producing more and more rubbish. Why do you think this is happening? What can government do to help reduce the amount of rubbish produced",
+      "question_type": "problem_solution",
+      "keywords": [
+        "rubbish",
+        "waste production",
+        "government action",
+        "waste reduction"
+      ]
+    },
+    {
+      "id": "环境类-2",
+      "theme_cn": "环境类",
+      "theme_en": "Environment",
+      "question_text": "Wild animals have no place in the 21st century, so protecting them is a waste of resources. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "wildlife protection",
+        "endangered species",
+        "resource allocation",
+        "21st century"
+      ]
+    },
+    {
+      "id": "环境类-3",
+      "theme_cn": "环境类",
+      "theme_en": "Environment",
+      "question_text": "Explain some of the ways in which humans are damaging the environment. What can governments do to address these problems? What can individual people do?",
+      "question_type": "other",
+      "keywords": [
+        "environmental damage",
+        "government solutions",
+        "individual actions",
+        "human impact"
+      ]
+    },
+    {
+      "id": "环境类-4",
+      "theme_cn": "环境类",
+      "theme_en": "Environment",
+      "question_text": "Developments of technology are causing environmental problems. Some people think the solution is that everyone accepts a simpler life, while others believe that technology can solve these problems. Discuss both views and give your opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "technology",
+        "environmental problems",
+        "simpler life",
+        "technological solutions"
+      ]
+    },
+    {
+      "id": "环境类-5",
+      "theme_cn": "环境类",
+      "theme_en": "Environment",
+      "question_text": "The natural resources such as oil, forests and fresh water are being consumed at an alarming rate. What problems does it cause? How can we solve these problems?",
+      "question_type": "other",
+      "keywords": [
+        "natural resources",
+        "resource depletion",
+        "environmental problems",
+        "solutions"
+      ]
+    },
+    {
+      "id": "环境类-6",
+      "theme_cn": "环境类",
+      "theme_en": "Environment",
+      "question_text": "Nuclear energy is the best source of power in meeting ever-increasing global energy needs. To what extent do you agree or disagree？",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "nuclear energy",
+        "global energy needs",
+        "power source",
+        "energy sustainability"
+      ]
+    },
+    {
+      "id": "环境类-7",
+      "theme_cn": "环境类",
+      "theme_en": "Environment",
+      "question_text": "Some people think cheap air travel should be encouraged because it gives ordinary people freedom to travel further. However, others think this leads to environmental problem, so air travel should be more expensive in order to discourage people from having it. Discuss both views and give your own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "cheap air travel",
+        "environmental impact",
+        "pricing policy",
+        "travel freedom"
+      ]
+    },
+    {
+      "id": "环境类-8",
+      "theme_cn": "环境类",
+      "theme_en": "Environment",
+      "question_text": "It is a natural process for animal species to become extinct (e.g. dinosaurs and dodos）. There is no reason why people should try to prevent this from happening. Do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "species extinction",
+        "natural process",
+        "human intervention",
+        "biodiversity"
+      ]
+    },
+    {
+      "id": "环境类-9",
+      "theme_cn": "环境类",
+      "theme_en": "Environment",
+      "question_text": "Many animals are endangered. Some people argue that we should only protect animals that are useful to human. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "endangered animals",
+        "animal protection",
+        "usefulness to humans",
+        "conservation ethics"
+      ]
+    },
+    {
+      "id": "环境类-10",
+      "theme_cn": "环境类",
+      "theme_en": "Environment",
+      "question_text": "Many species of plants and animals are declining in the world. Give possible reasons and offer solutions.",
+      "question_type": "other",
+      "keywords": [
+        "species decline",
+        "biodiversity loss",
+        "causes",
+        "solutions"
+      ]
+    },
+    {
+      "id": "环境类-11",
+      "theme_cn": "环境类",
+      "theme_en": "Environment",
+      "question_text": "Some people think it is necessary to use animals for testing medicines intended for human use. Others, however, think it is not right to do that. Discuss both of these views and give you own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "animal testing",
+        "medical research",
+        "ethics",
+        "alternatives"
+      ]
+    },
+    {
+      "id": "环境类-12",
+      "theme_cn": "环境类",
+      "theme_en": "Environment",
+      "question_text": "Some people think climate change has a negative impact on business, while others think it provides more business opportunities. Discuss both views and give your own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "climate change",
+        "business impact",
+        "business opportunities",
+        "economic effects"
+      ]
+    },
+    {
+      "id": "犯罪类-1",
+      "theme_cn": "犯罪类",
+      "theme_en": "Crime",
+      "question_text": "Some people think all lawbreakers should be put into prison, while others believe that there are better alternatives. Discuss both views and give your opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "lawbreakers",
+        "imprisonment",
+        "alternatives to prison",
+        "criminal justice"
+      ]
+    },
+    {
+      "id": "犯罪类-2",
+      "theme_cn": "犯罪类",
+      "theme_en": "Crime",
+      "question_text": "Some people who have been in prison become good citizens later, and it is often argued that these are the best people to talk to teenagers about the dangers of committing a crime. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "ex-prisoners",
+        "rehabilitation",
+        "teenagers",
+        "crime prevention"
+      ]
+    },
+    {
+      "id": "犯罪类-3",
+      "theme_cn": "犯罪类",
+      "theme_en": "Crime",
+      "question_text": "Some think most crime is the result of circumstances (eg. poverty and other social problems). Others believe that most crime is caused by people who are bad by nature. Discuss both views and give your opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "crime causes",
+        "circumstances",
+        "poverty",
+        "human nature"
+      ]
+    },
+    {
+      "id": "犯罪类-4",
+      "theme_cn": "犯罪类",
+      "theme_en": "Crime",
+      "question_text": "It is shown that many criminals have a low level of education. Some people argue that the best way to reduce crime is to educate criminals in prison to help them find jobs when they leave prison. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "education",
+        "criminals in prison",
+        "recidivism",
+        "employment after prison"
+      ]
+    },
+    {
+      "id": "犯罪类-5",
+      "theme_cn": "犯罪类",
+      "theme_en": "Crime",
+      "question_text": "In some countries, a high proportion of criminal acts are committed by teenagers. Why has this happened? What can be done to deal with this?",
+      "question_type": "problem_solution",
+      "keywords": [
+        "teenage crime",
+        "causes",
+        "solutions",
+        "youth justice"
+      ]
+    },
+    {
+      "id": "犯罪类-6",
+      "theme_cn": "犯罪类",
+      "theme_en": "Crime",
+      "question_text": "Some people believe that children that commit crimes should be punished. Others think the parents should be punished instead. Discuss both views and give your own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "children crime",
+        "punishment",
+        "parental responsibility",
+        "juvenile justice"
+      ]
+    },
+    {
+      "id": "全球化-1",
+      "theme_cn": "全球化",
+      "theme_en": "Global issues",
+      "question_text": "Many of today's urgent problems can only be solved by international cooperation. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "urgent problems",
+        "international cooperation",
+        "global solutions"
+      ]
+    },
+    {
+      "id": "全球化-2",
+      "theme_cn": "全球化",
+      "theme_en": "Global issues",
+      "question_text": "It is impossible to help all people in the world, so governments should focus on people in their own countries. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "helping others",
+        "government responsibility",
+        "national focus",
+        "global aid"
+      ]
+    },
+    {
+      "id": "全球化-3",
+      "theme_cn": "全球化",
+      "theme_en": "Global issues",
+      "question_text": "Some people think charity organizations should help people in great need wherever they live, while other people think that they should only concentrate on people in their own countries. Discuss both views and give your opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "charity organizations",
+        "international aid",
+        "national focus",
+        "humanitarian assistance"
+      ]
+    },
+    {
+      "id": "全球化-4",
+      "theme_cn": "全球化",
+      "theme_en": "Global issues",
+      "question_text": "Some people believe that the main benefit of international cooperation is in the environment, others maintain that the major profit is the development of world business. Discuss the both views and give your own opinion.",
+      "question_type": "other",
+      "keywords": [
+        "international cooperation",
+        "environmental benefits",
+        "world business",
+        "global collaboration"
+      ]
+    },
+    {
+      "id": "全球化-5",
+      "theme_cn": "全球化",
+      "theme_en": "Global issues",
+      "question_text": "Some people regard the increasing business and cultural contact between countries as a positive development. Others, however, feel that this will lead to the loss of national identities. Discuss both views and give your opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "business contact",
+        "cultural contact",
+        "national identity",
+        "globalization effects"
+      ]
+    },
+    {
+      "id": "全球化-6",
+      "theme_cn": "全球化",
+      "theme_en": "Global issues",
+      "question_text": "During the 20th century, contacts between different parts of the world developed quickly, thanks to air travel and telecommunication. To what extent do you think societies benefits from increased contact and closer relationship brought about by international tourism and business?",
+      "question_type": "other",
+      "keywords": [
+        "air travel",
+        "telecommunication",
+        "international tourism",
+        "global business",
+        "societal benefits"
+      ]
+    },
+    {
+      "id": "全球化-7",
+      "theme_cn": "全球化",
+      "theme_en": "Global issues",
+      "question_text": "It has become easier and more possible for people to visit other countries. Is it a positive or negative development?",
+      "question_type": "other",
+      "keywords": [
+        "international travel",
+        "ease of travel",
+        "positive development",
+        "negative development"
+      ]
+    },
+    {
+      "id": "全球化-8",
+      "theme_cn": "全球化",
+      "theme_en": "Global issues",
+      "question_text": "The organized tours to remote places and communities are more popular. Is it a positive or negative improvement for the local people and the environment?",
+      "question_type": "other",
+      "keywords": [
+        "organized tours",
+        "remote communities",
+        "local people",
+        "environmental impact"
+      ]
+    },
+    {
+      "id": "全球化-9",
+      "theme_cn": "全球化",
+      "theme_en": "Global issues",
+      "question_text": "Some believe that the Olympic Games help bring people from different nations together, while others claim that holding the Olympics wastes money that could be used for other important issues. Discuss both views and give your own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "Olympic Games",
+        "international unity",
+        "government spending",
+        "economic impact"
+      ]
+    },
+    {
+      "id": "全球化-10",
+      "theme_cn": "全球化",
+      "theme_en": "Global issues",
+      "question_text": "Differences between countries have become less evident, so we can enjoy the same films, brands and TV programs. To what extent do you think the disadvantages of this outweigh the advantages?",
+      "question_type": "advantages_disadvantages",
+      "keywords": [
+        "cultural differences",
+        "global brands",
+        "films",
+        "TV programs",
+        "advantages vs disadvantages"
+      ]
+    },
+    {
+      "id": "全球化-11",
+      "theme_cn": "全球化",
+      "theme_en": "Global issues",
+      "question_text": "In many countries, people now wear western-style dresses such as suits and jeans rather than traditional clothing. Why is this? Is this a positive or negative development?",
+      "question_type": "other",
+      "keywords": [
+        "western-style clothing",
+        "traditional clothing",
+        "cultural change",
+        "globalization"
+      ]
+    },
+    {
+      "id": "全球化-12",
+      "theme_cn": "全球化",
+      "theme_en": "Global issues",
+      "question_text": "In many countries nowadays, consumers can go to a supermarket and buy food produced all over the world. Do you think this is a positive or negative development?",
+      "question_type": "other",
+      "keywords": [
+        "global food trade",
+        "supermarket",
+        "consumer choice",
+        "positive or negative"
+      ]
+    },
+    {
+      "id": "全球化-13",
+      "theme_cn": "全球化",
+      "theme_en": "Global issues",
+      "question_text": "Historical objects in museums all over the world should be returned to their country of origin. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "historical objects",
+        "museums",
+        "repatriation",
+        "country of origin",
+        "cultural heritage"
+      ]
+    },
+    {
+      "id": "科技类-1",
+      "theme_cn": "科技类",
+      "theme_en": "Television, Internet, Phones",
+      "question_text": "Nowadays，Some people claim that public museums and art galleries will not be needed because people can see historical objects and works of art by using a computer. To what extent you agree or disagree with this opinion?",
+      "question_type": "other",
+      "keywords": [
+        "public museums",
+        "art galleries",
+        "digital access",
+        "computer",
+        "cultural experience"
+      ]
+    },
+    {
+      "id": "科技类-2",
+      "theme_cn": "科技类",
+      "theme_en": "Television, Internet, Phones",
+      "question_text": "Today more people put personal and private information online to do everyday activities such as banking, shopping and socializing. Is this a positive or negative development？",
+      "question_type": "other",
+      "keywords": [
+        "personal information",
+        "online privacy",
+        "banking",
+        "shopping",
+        "socializing"
+      ]
+    },
+    {
+      "id": "科技类-3",
+      "theme_cn": "科技类",
+      "theme_en": "Television, Internet, Phones",
+      "question_text": "Nowadays the way many people interact with each other has changed because of technology. In what ways has technology affected the types of relationships that people make? Has this been a positive or negative development?",
+      "question_type": "other",
+      "keywords": [
+        "technology",
+        "human interaction",
+        "relationships",
+        "positive or negative"
+      ]
+    },
+    {
+      "id": "科技类-4",
+      "theme_cn": "科技类",
+      "theme_en": "Television, Internet, Phones",
+      "question_text": "Many employees can now do their work from home using modern technology. However, this change may only benefit workers, not the employers. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "work from home",
+        "modern technology",
+        "employee benefit",
+        "employer benefit"
+      ]
+    },
+    {
+      "id": "科技类-5",
+      "theme_cn": "科技类",
+      "theme_en": "Television, Internet, Phones",
+      "question_text": "Robots will bring more benefits than their negative effects on humans in the future. Do you agree or disagree with this statement?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "robots",
+        "benefits",
+        "negative effects",
+        "future impact"
+      ]
+    },
+    {
+      "id": "科技类-6",
+      "theme_cn": "科技类",
+      "theme_en": "Television, Internet, Phones",
+      "question_text": "In the developed world, average life expectancy is increasing. What problems will this cause for individuals and society? Suggest some measures that could be taken to reduce the impact of ageing populations.",
+      "question_type": "other",
+      "keywords": [
+        "life expectancy",
+        "ageing population",
+        "problems",
+        "solutions",
+        "society"
+      ]
+    },
+    {
+      "id": "科技类-7",
+      "theme_cn": "科技类",
+      "theme_en": "Television, Internet, Phones",
+      "question_text": "Some people regard video games as harmless fun, or even as a useful educational tool. Others, however, believe that videos games are having an adverse effect on the people who play them. In your opinion, do the drawbacks of video games outweigh the benefits?",
+      "question_type": "advantages_disadvantages",
+      "keywords": [
+        "video games",
+        "educational tool",
+        "adverse effects",
+        "drawbacks vs benefits"
+      ]
+    },
+    {
+      "id": "科技类-8",
+      "theme_cn": "科技类",
+      "theme_en": "Television, Internet, Phones",
+      "question_text": "People who live in the twenty first century have a better quality of life than people who live in previous centuries. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "21st century",
+        "quality of life",
+        "previous centuries",
+        "comparison"
+      ]
+    },
+    {
+      "id": "科技类-9",
+      "theme_cn": "科技类",
+      "theme_en": "Television, Internet, Phones",
+      "question_text": "The increase in food production owes much to fertilizers and better machinery, but some people think that it has a negative impact on human health and community. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "food production",
+        "fertilizers",
+        "machinery",
+        "human health",
+        "community impact"
+      ]
+    },
+    {
+      "id": "科技类-10",
+      "theme_cn": "科技类",
+      "theme_en": "Television, Internet, Phones",
+      "question_text": "Some people believe that the increasing use of the computers and the mobile phones has a negative effect on young people's reading and writing skill, do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "computers",
+        "mobile phones",
+        "young people",
+        "reading skills",
+        "writing skills"
+      ]
+    },
+    {
+      "id": "科技类-11",
+      "theme_cn": "科技类",
+      "theme_en": "Television, Internet, Phones",
+      "question_text": "Nowadays more and more people are using cellphones and computers to communicate, so they are losing the ability to communicate with each other face to face. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "cellphones",
+        "computers",
+        "communication",
+        "face to face",
+        "social skills"
+      ]
+    },
+    {
+      "id": "媒体类-1",
+      "theme_cn": "媒体类",
+      "theme_en": "Television, Internet, Phones",
+      "question_text": "There is a tendency that news reports in the media focus on problems and emergencies rather than positive developments. It is harmful to the individual and to the society. Do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "news reports",
+        "problems and emergencies",
+        "positive developments",
+        "harmful effects"
+      ]
+    },
+    {
+      "id": "媒体类-2",
+      "theme_cn": "媒体类",
+      "theme_en": "Television, Internet, Phones",
+      "question_text": "Although more and more people read news on the internet, newspapers will remain the most important source of news. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "internet news",
+        "newspapers",
+        "news sources",
+        "importance"
+      ]
+    },
+    {
+      "id": "媒体类-3",
+      "theme_cn": "媒体类",
+      "theme_en": "Television, Internet, Phones",
+      "question_text": "In order to learn the way other people in the world live, it is better to look at film and video records than written documents. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "film and video",
+        "written documents",
+        "learning about cultures",
+        "visual media"
+      ]
+    },
+    {
+      "id": "媒体类-4",
+      "theme_cn": "媒体类",
+      "theme_en": "Television, Internet, Phones",
+      "question_text": "Society would benefit from the ban on all forms of advertising because it may serve no useful purpose, and can even be damaging. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "advertising ban",
+        "useful purpose",
+        "damaging effects",
+        "societal benefit"
+      ]
+    },
+    {
+      "id": "媒体类-5",
+      "theme_cn": "媒体类",
+      "theme_en": "Television, Internet, Phones",
+      "question_text": "Nowadays some consumers are less influenced by advertising than in the past. What are the reasons? Is it a positive or negative development?",
+      "question_type": "other",
+      "keywords": [
+        "consumers",
+        "advertising influence",
+        "reasons",
+        "positive or negative"
+      ]
+    },
+    {
+      "id": "媒体类-6",
+      "theme_cn": "媒体类",
+      "theme_en": "Television, Internet, Phones",
+      "question_text": "In some countries, advertisers increase the amount of advertising which try to persuade children to buy snacks, toys， and other goods. Parents object to such pressure on children. But some advertisers claim that there is useful information in these advertisements. Discuss both views and give your opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "advertising to children",
+        "snacks and toys",
+        "parental objection",
+        "useful information"
+      ]
+    },
+    {
+      "id": "社会类-1",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Young people are leaving their homes from rural areas to study or work in the cities. What are the reasons? Do advantages of this development outweigh its disadvantages?",
+      "question_type": "advantages_disadvantages",
+      "keywords": [
+        "rural to urban migration",
+        "young people",
+        "reasons",
+        "advantages vs disadvantages"
+      ]
+    },
+    {
+      "id": "社会类-2",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Happiness is considered very important in life. Why is it difficult to define? What factors are important in achieving happiness?",
+      "question_type": "problem_solution",
+      "keywords": [
+        "happiness",
+        "definition difficulty",
+        "achieving happiness",
+        "factors"
+      ]
+    },
+    {
+      "id": "社会类-3",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Some people believe that hobbies need to be difficult to be enjoyable. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "hobbies",
+        "difficulty",
+        "enjoyment",
+        "challenge"
+      ]
+    },
+    {
+      "id": "社会类-4",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "We cannot help everyone in the world that needs help, so we should only be concerned with our own communities and countries. To what extent do you agree or disagree with this statement?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "helping others",
+        "local focus",
+        "global responsibility",
+        "community"
+      ]
+    },
+    {
+      "id": "社会类-5",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "In some countries, many more people are choosing to live alone nowadays than in the past. Do you think this is a positive or negative development?",
+      "question_type": "other",
+      "keywords": [
+        "living alone",
+        "single-person households",
+        "positive development",
+        "negative development"
+      ]
+    },
+    {
+      "id": "社会类-6",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "As well as making money, businesses also have social responsibilities. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "business",
+        "social responsibilities",
+        "profit-making",
+        "corporate ethics"
+      ]
+    },
+    {
+      "id": "社会类-7",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "In recent years, there has been growing interest in the relationship between equality and personal achievement. Some people believe that individuals can achieve more in egalitarian societies. Others believe that high levels of personal achievement are possible only if individuals are free to succeed or fail according to their individual merits. What is your view of the relationship between equality and personal success?",
+      "question_type": "other",
+      "keywords": [
+        "equality",
+        "personal achievement",
+        "egalitarian societies",
+        "individual merit",
+        "success"
+      ]
+    },
+    {
+      "id": "社会类-8",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Some people think that strict punishments for driving offences are the key to reducing traffic accidents. Others, however, believe that other measures would be more effective in improving road safety. Discuss both these views and give your own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "strict punishments",
+        "driving offences",
+        "traffic accidents",
+        "road safety",
+        "alternative measures"
+      ]
+    },
+    {
+      "id": "社会类-9",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Some people think that museums should be enjoyable places to entertain people, while others believe that the purpose of museums is to educate. Discuss both views and give you own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "museums",
+        "entertainment",
+        "education",
+        "purpose"
+      ]
+    },
+    {
+      "id": "社会类-10",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Some people think that all teenagers should be required to do unpaid work in their free time to help the local community. They believe this would benefit both the individual teenager and society as a whole. Do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "teenagers",
+        "unpaid work",
+        "local community",
+        "benefits",
+        "mandatory volunteering"
+      ]
+    },
+    {
+      "id": "社会类-11",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Nowadays, an increasing number of people are living in big cities, such as mega-cities with populations over 20 million. Do you think this trend is advantageous or disadvantageous?",
+      "question_type": "other",
+      "keywords": [
+        "mega-cities",
+        "urban living",
+        "population growth",
+        "advantages",
+        "disadvantages"
+      ]
+    },
+    {
+      "id": "社会类-12",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "The major cities in the world are growing fast, as well as their problems. What are the problems that young people living in cities are facing? How to solve these problems.",
+      "question_type": "other",
+      "keywords": [
+        "major cities",
+        "young people",
+        "urban problems",
+        "solutions"
+      ]
+    },
+    {
+      "id": "社会类-13",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Some people think that in the modern world we are more dependent on each other, while others think that people have become more independent. Discuss both views and give your own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "modern world",
+        "dependence",
+        "independence",
+        "social relationships"
+      ]
+    },
+    {
+      "id": "社会类-14",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "The level of noise around us is constantly increasing and is affecting the quality of our lives. What causes the noise? What should be done about it?",
+      "question_type": "other",
+      "keywords": [
+        "noise pollution",
+        "causes",
+        "quality of life",
+        "solutions"
+      ]
+    },
+    {
+      "id": "社会类-15",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Some think \"vertical City\" is the best where people live and work in tall buildings. Others think \" Horizontal City \" is better where there is few tall buildings. Discuss both views and give your own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "vertical city",
+        "tall buildings",
+        "horizontal city",
+        "urban planning"
+      ]
+    },
+    {
+      "id": "社会类-16",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "In some cities, planners have located shops, schools, offices and homes in areas which are widely separate from each other. Do you think the advantages outweigh the disadvantages?",
+      "question_type": "advantages_disadvantages",
+      "keywords": [
+        "urban planning",
+        "separate zones",
+        "shops",
+        "schools",
+        "offices",
+        "homes"
+      ]
+    },
+    {
+      "id": "社会类-17",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "In big cities in the world, the high volume of road traffic has become a serious problem. What are the causes of this situation? What actions can be taken to solve the problem?",
+      "question_type": "other",
+      "keywords": [
+        "road traffic",
+        "traffic congestion",
+        "causes",
+        "solutions"
+      ]
+    },
+    {
+      "id": "社会类-18",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "The best way to solve traffic congestion is to provide free public transport 24 hours a day, seven days a week. Do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "traffic congestion",
+        "free public transport",
+        "24/7",
+        "solution"
+      ]
+    },
+    {
+      "id": "社会类-19",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Some countries invest more money to make it easier to use bicycles in cities. Why? Is it the best way to solve the transport problem?",
+      "question_type": "other",
+      "keywords": [
+        "bicycles",
+        "cycling infrastructure",
+        "transport problem",
+        "investment"
+      ]
+    },
+    {
+      "id": "社会类-20",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "When choosing a job, the salary is the most important consideration. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "job choice",
+        "salary",
+        "importance",
+        "career considerations"
+      ]
+    },
+    {
+      "id": "社会类-21",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Some people think the best way to improve road safety is to increase the minimum legal age for driving cars and motorcycles. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "road safety",
+        "minimum legal age",
+        "driving",
+        "motorcycles"
+      ]
+    },
+    {
+      "id": "社会类-22",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Some people prefer to stay in the same job for the same company, but others prefer to change jobs frequently. You should use specific reasons to compare the advantages and disadvantages of both sides.",
+      "question_type": "advantages_disadvantages",
+      "keywords": [
+        "job stability",
+        "job change",
+        "advantages",
+        "disadvantages",
+        "career choice"
+      ]
+    },
+    {
+      "id": "社会类-23",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Many people aim to achieve the balance between their work and life, but few people achieve it. What are the causes of the problems? How to overcome it?",
+      "question_type": "other",
+      "keywords": [
+        "work-life balance",
+        "causes",
+        "solutions",
+        "stress management"
+      ]
+    },
+    {
+      "id": "社会类-24",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "The only reason for people working hard is to earn money. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "working hard",
+        "motivation",
+        "money",
+        "other reasons"
+      ]
+    },
+    {
+      "id": "社会类-25",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "The working week should be shorter and workers should have a longer weekend. Do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "working week",
+        "shorter hours",
+        "longer weekend",
+        "work-life balance"
+      ]
+    },
+    {
+      "id": "社会类-26",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "The world of work is changing rapidly and people cannot depend on the same job or same conditions of work for life. Discuss the possible causes for this rapid change and give your suggestions on how people should prepare for work in the future?",
+      "question_type": "other",
+      "keywords": [
+        "changing work environment",
+        "job security",
+        "causes",
+        "future preparation",
+        "suggestions"
+      ]
+    },
+    {
+      "id": "社会类-27",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Some people believe that professionals, such as doctors and engineers, should be required to work in the country where they did their training. Others believe they should be free to work in another country if they wish. Discuss both these views and give your own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "professionals",
+        "doctors",
+        "engineers",
+        "mandatory service",
+        "freedom of movement",
+        "brain drain"
+      ]
+    },
+    {
+      "id": "社会类-28",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Employers should give their staffs at least four weeks' vacation a year to make employees better at their jobs. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "employee vacation",
+        "annual leave",
+        "job performance",
+        "employer policy"
+      ]
+    },
+    {
+      "id": "社会类-29",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "In many countries nowadays, more and more women have full-time jobs as men, so there is logic that men and women should share the housework tasks equally(like cleaning and looking after children). To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "gender equality",
+        "housework sharing",
+        "full-time jobs",
+        "childcare"
+      ]
+    },
+    {
+      "id": "社会类-30",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Some people think that men and women have different qualities. Therefore, some certain jobs are suitable for men and some jobs are suitable for women. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "gender differences",
+        "job suitability",
+        "men",
+        "women",
+        "stereotypes"
+      ]
+    },
+    {
+      "id": "社会类-31",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Universities should accept equal numbers of male and female study in every subject. Do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "gender balance",
+        "university admission",
+        "subjects",
+        "equal numbers"
+      ]
+    },
+    {
+      "id": "社会类-32",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Ambition is being emphasized in today's society. How important do you think it is for people who want to succeed in life? Is it a positive or negative characteristic?",
+      "question_type": "other",
+      "keywords": [
+        "ambition",
+        "success",
+        "importance",
+        "positive characteristic",
+        "negative characteristic"
+      ]
+    },
+    {
+      "id": "社会类-33",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Some people think that competition at work, at school and in daily life is a good thing. Others believe that we should try to cooperate more, rather than competing against each other. Discuss both these views and give your own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "competition",
+        "cooperation",
+        "work",
+        "school",
+        "daily life"
+      ]
+    },
+    {
+      "id": "社会类-34",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "The customs and traditional ways of behavior are no longer relevant to the modern world. So they are not worth keeping any more. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "customs",
+        "traditional behavior",
+        "relevance",
+        "modern world",
+        "preservation"
+      ]
+    },
+    {
+      "id": "社会类-35",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Nowadays, people like to throw away damaged things and buy new ones while people in the past would always reuse them by repair. To what extent do you agree or disagree that this is a negative trend?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "throwaway culture",
+        "repair",
+        "reuse",
+        "negative trend",
+        "consumerism"
+      ]
+    },
+    {
+      "id": "社会类-36",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "More and more people want to buy famous brands with clothes, cars and other items. What are the reasons behind this? Do you think it is a positive or negative development?",
+      "question_type": "other",
+      "keywords": [
+        "famous brands",
+        "consumer behavior",
+        "reasons",
+        "positive or negative"
+      ]
+    },
+    {
+      "id": "社会类-37",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "An increasing number of people choose to do cosmetic surgery. Why do people have operations to change the way they look? Do you think this is positive or negative development?",
+      "question_type": "other",
+      "keywords": [
+        "cosmetic surgery",
+        "appearance change",
+        "reasons",
+        "positive or negative"
+      ]
+    },
+    {
+      "id": "社会类-38",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "In today's world, people spend a lot of money on appearance because they want to look younger. Why does this happen? Do you think this is a positive or negative development?",
+      "question_type": "other",
+      "keywords": [
+        "appearance",
+        "looking younger",
+        "spending",
+        "reasons",
+        "positive or negative"
+      ]
+    },
+    {
+      "id": "社会类-39",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "It is important for everyone, including young people, to save money for their future. To what extent do you agree or disagree with this statement?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "saving money",
+        "future planning",
+        "young people",
+        "financial responsibility"
+      ]
+    },
+    {
+      "id": "社会类-40",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Some people believe that employers should not be concerned about the way their employees dress, but they should be concerned about the quality at work. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "employers",
+        "dress code",
+        "work quality",
+        "employee appearance"
+      ]
+    },
+    {
+      "id": "社会类-41",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "The restoration of old buildings in major cities in the world costs numerous government's expenditure. This money should be used in new housing and road development. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "old buildings restoration",
+        "government spending",
+        "new housing",
+        "road development"
+      ]
+    },
+    {
+      "id": "社会类-42",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Many people like to eat unhealthy food even though they know it's bad for them. Why? What effective way can improve people's healthy eating habits?",
+      "question_type": "problem_solution",
+      "keywords": [
+        "unhealthy food",
+        "reasons",
+        "healthy eating habits",
+        "solutions"
+      ]
+    },
+    {
+      "id": "社会类-43",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Nowadays, more and more people decide to have children later in their life. What do you think are the reasons for this? Do the advantages of this trend outweigh the disadvantages?",
+      "question_type": "advantages_disadvantages",
+      "keywords": [
+        "late parenthood",
+        "reasons",
+        "advantages",
+        "disadvantages"
+      ]
+    },
+    {
+      "id": "社会类-44",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Some say old people should continue to work, if their condition allows them to do so. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "older people",
+        "continued work",
+        "health condition",
+        "retirement"
+      ]
+    },
+    {
+      "id": "社会类-45",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Nowadays, older people who need employment have to compete with younger people. What problems do this cause? And what are the solutions?",
+      "question_type": "other",
+      "keywords": [
+        "older workers",
+        "competition with youth",
+        "problems",
+        "solutions"
+      ]
+    },
+    {
+      "id": "社会类-46",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Doctors recommend older people have regular exercise, but there are few older people taking enough physical exercise. What are the reasons? What can be done to encourage older people to exercise?",
+      "question_type": "other",
+      "keywords": [
+        "older people",
+        "regular exercise",
+        "reasons for not exercising",
+        "encouragement strategies"
+      ]
+    },
+    {
+      "id": "社会类-47",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Celebrities are usually more famous for glamour and wealth than for their achievements and this sets a bad example for young people. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "celebrities",
+        "glamour",
+        "wealth",
+        "achievements",
+        "role models",
+        "young people"
+      ]
+    },
+    {
+      "id": "社会类-48",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "The older generations tend to have very traditional ideas about how people should live, think and behave. However, some people believe that these ideas are not helpful in preparing younger generations for modern life. To what extent do you agree or disagree with this view?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "older generations",
+        "traditional ideas",
+        "younger generations",
+        "modern life",
+        "relevance"
+      ]
+    },
+    {
+      "id": "社会类-49",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Professional workers like doctors, nurses and teachers make a greater contribution to society and so they should be paid more than sports and entertainment personalities. To what extent do you agree or disagree?",
+      "question_type": "agree_disagree",
+      "keywords": [
+        "professional workers",
+        "doctors",
+        "nurses",
+        "teachers",
+        "sports personalities",
+        "entertainment personalities",
+        "salary comparison"
+      ]
+    },
+    {
+      "id": "社会类-50",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Newspapers and TV like to report on the private lives of entertainers and other famous people. Some people say that public figures should have the right to privacy in their private lives but others disagree. Are famous people entitled to privacy?",
+      "question_type": "other",
+      "keywords": [
+        "privacy",
+        "famous people",
+        "public figures",
+        "media reporting",
+        "entitlement"
+      ]
+    },
+    {
+      "id": "社会类-51",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Some people think that in this modern world people are getting dependent on each other, while others think the modern society gets people more independent on each other. Discuss both views and give your own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "modern world",
+        "dependence",
+        "independence",
+        "social relationships"
+      ]
+    },
+    {
+      "id": "社会类-52",
+      "theme_cn": "社会类",
+      "theme_en": "Global issues",
+      "question_text": "Some people think young people are not suitable for important positions in the government，while other people think it is a good idea for young people to take on these positions. Discuss both views and give your own opinion.",
+      "question_type": "discuss_both_views",
+      "keywords": [
+        "young people",
+        "government positions",
+        "suitability",
+        "important roles"
+      ]
+    }
+  ]
+}

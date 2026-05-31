@@ -1,0 +1,96 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String   @id @default(cuid())
+  email        String   @unique
+  passwordHash String
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  submissions  EssaySubmission[]
+
+  @@index([email])
+}
+
+model PromptQuestion {
+  id           String   @id
+  themeCn      String
+  themeEn      String
+  questionText String
+  questionType String
+  keywords     String[]
+  essays       ModelEssay[]
+  submissions  EssaySubmission[]
+
+  @@index([themeCn])
+  @@index([themeEn])
+}
+
+model ModelEssay {
+  id             String          @id @default(cuid())
+  titleCn        String
+  question       String
+  essayText      String
+  wordCount      Int
+  bandScore      Float           @default(9.0)
+  questionId     String?
+  promptQuestion PromptQuestion? @relation(fields: [questionId], references: [id])
+  createdAt      DateTime        @default(now())
+
+  @@index([questionId])
+}
+
+model KnowledgeChunk {
+  id         String   @id
+  topic      String
+  subtopic   String
+  stance     String
+  points     String[]
+  fullText   String
+  pointCount Int
+  createdAt  DateTime @default(now())
+
+  @@index([topic])
+}
+
+model EssaySubmission {
+  id             String          @id @default(cuid())
+  taskType       String          @default("Task2")
+  questionText   String
+  essayText      String
+  userId         String
+  user           User            @relation(fields: [userId], references: [id])
+  questionId     String?
+  promptQuestion PromptQuestion? @relation(fields: [questionId], references: [id])
+  reports        FeedbackReport[]
+  createdAt      DateTime        @default(now())
+
+  @@index([userId])
+}
+
+model FeedbackReport {
+  id               String          @id @default(cuid())
+  submissionId     String
+  submission       EssaySubmission @relation(fields: [submissionId], references: [id])
+  overallComment   String
+  trScore          Float
+  ccScore          Float
+  lrScore          Float
+  graScore         Float
+  estimatedBand    Float
+  sentenceFeedback Json
+  rewriteExamples  Json
+  nextActions      Json
+  modelUsed        String          @default("deepseek-chat")
+  retrievedTopics  String[]
+  generationMs     Int?
+  createdAt        DateTime        @default(now())
+
+  @@index([submissionId])
+}

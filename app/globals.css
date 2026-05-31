@@ -1,0 +1,166 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;600;700&family=Work+Sans:wght@400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #f4efe6;
+  --bg-soft: #ece4d6;
+  --panel: #fffdf8;
+  --ink: #1a2733;
+  --muted: #5d6772;
+  --line: #d8cfbf;
+  --accent: #c3582f;
+  --accent-2: #1f5d61;
+  --ring: rgba(195, 88, 47, 0.35);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background:
+    radial-gradient(circle at 10% 10%, rgba(31, 93, 97, 0.12), transparent 33%),
+    radial-gradient(circle at 90% 0%, rgba(195, 88, 47, 0.14), transparent 31%),
+    repeating-linear-gradient(
+      90deg,
+      transparent 0,
+      transparent 22px,
+      rgba(26, 39, 51, 0.025) 22px,
+      rgba(26, 39, 51, 0.025) 23px
+    ),
+    var(--bg);
+  font-family: "Work Sans", "PingFang SC", "Microsoft YaHei", sans-serif;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Noto Serif SC", "Songti SC", serif;
+  letter-spacing: 0.01em;
+}
+
+.site-shell {
+  position: relative;
+}
+
+.site-shell::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(125deg, rgba(255, 255, 255, 0.45), transparent 42%),
+    radial-gradient(circle at 50% 120%, rgba(31, 93, 97, 0.1), transparent 40%);
+  z-index: -1;
+}
+
+.card {
+  border: 1px solid var(--line);
+  background: color-mix(in oklab, var(--panel) 92%, white 8%);
+  border-radius: 1rem;
+  box-shadow: 0 14px 28px -24px rgba(30, 44, 57, 0.52);
+  backdrop-filter: blur(2px);
+}
+
+.card-elevated {
+  border: 1px solid color-mix(in oklab, var(--line) 80%, var(--accent-2) 20%);
+  box-shadow:
+    0 20px 40px -30px rgba(31, 93, 97, 0.44),
+    0 8px 20px -16px rgba(26, 39, 51, 0.35);
+}
+
+.btn-primary {
+  border: 1px solid color-mix(in oklab, var(--accent) 85%, black 15%);
+  background: linear-gradient(135deg, var(--accent), #de7048);
+  color: #fff;
+  border-radius: 0.75rem;
+  padding: 0.6rem 1rem;
+  font-weight: 600;
+  transition: transform 180ms ease, filter 180ms ease, box-shadow 180ms ease;
+}
+
+.btn-primary:hover {
+  transform: translateY(-1px);
+  filter: saturate(1.1);
+  box-shadow: 0 10px 26px -18px var(--accent);
+}
+
+.btn-secondary {
+  border: 1px solid var(--line);
+  background: color-mix(in oklab, var(--panel) 92%, white 8%);
+  color: var(--ink);
+  border-radius: 0.75rem;
+  padding: 0.6rem 1rem;
+  font-weight: 600;
+  transition: all 180ms ease;
+}
+
+.btn-secondary:hover {
+  border-color: color-mix(in oklab, var(--accent-2) 40%, var(--line) 60%);
+  color: var(--accent-2);
+}
+
+.input,
+textarea {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 0.85rem;
+  background: #fff;
+  color: var(--ink);
+  outline: none;
+  padding: 0.7rem 0.85rem;
+  transition: border-color 180ms ease, box-shadow 180ms ease;
+}
+
+.input:focus,
+textarea:focus {
+  border-color: color-mix(in oklab, var(--accent) 45%, var(--line) 55%);
+  box-shadow: 0 0 0 3px var(--ring);
+}
+
+.label {
+  display: block;
+  margin-bottom: 0.4rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.tag {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  border: 1px solid color-mix(in oklab, var(--accent-2) 35%, var(--line) 65%);
+  background: rgba(31, 93, 97, 0.08);
+  color: var(--accent-2);
+  padding: 0.2rem 0.7rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.enter-fade {
+  animation: enter-fade 500ms ease both;
+}
+
+@keyframes enter-fade {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
